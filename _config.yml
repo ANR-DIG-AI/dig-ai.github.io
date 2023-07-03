@@ -1,0 +1,4 @@
+theme: jekyll-theme-minimal
+title: Octocat's homepage
+domain: dig-ai.github.io       # if you want to force HTTPS, specify the domain without the http at the start, e.g. example.com
+url: https://dig-ai.github.io
